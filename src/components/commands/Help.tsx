@@ -10,6 +10,7 @@ export default function Help() {
 		{ cmd: "skill", detail: "List all of my skills." },
 		{ cmd: "contact", detail: "List all of the contacts." },
 		{ cmd: "about", detail: "To see what is terminal portfolio." },
+		{ cmd: "email", detail: "To email me directly." }, //wanna change this into clear
 		{ cmd: "clear", detail: "To clear the history." }, //wanna change this into clear
 	];
 	return (
